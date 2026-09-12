@@ -16,3 +16,7 @@ print(name2)
 print(name3)
 
 # python: An implicitly typed language is a programming language where the compiler or interpreter automatically determines a variable's data type without requiring you to declare it explicitly.
+
+a = 3.14
+a = str(a)
+print(type(a))
