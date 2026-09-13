@@ -19,12 +19,12 @@ print('R' in own_name) # here "in" is a reserved words
 
 str = "I am studing python from youtube."
 
-str.endswith("er.")  #returns true if string ends with substr
+str.endswith("youtube.")  # returns true if string ends with substr
 
-str.capitalize()  #capitalizes 1st char create new string for changing
+str = str.capitalize()  # capitalizes 1st char (assign back to str to update it)
 
-str.replace( old, new )  #replaces all occurrences (char,string) of old with new
+str.replace("studing", "Learning")  # replaces all occurrences of old with new
 
-str.find( word )  #returns 1st index of 1st occurrence
+str.find("python")  # returns 1st index of 1st occurrence
 
-str.count("am")  #counts the occurrence of substr in string
+str.count("am")  # counts the occurrence of substr in string
