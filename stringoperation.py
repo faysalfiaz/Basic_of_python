@@ -3,6 +3,7 @@ str1 = "This is string"
 str2 = 'hello'
 str3 = """This is another"""
 
+# string is immutable
 # newline  /n
 # tab /t
 # concatinate -->str1+str2
