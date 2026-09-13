@@ -6,3 +6,5 @@ elif (marks < 80 and marks >=60) :
     print('B')
 else:
     print('C')
+
+# indentation : proper space
