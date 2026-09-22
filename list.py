@@ -10,6 +10,8 @@
 # # slicing a list --->list[st:end]
 # print(marks[0:3])
 
+# we cannot store set in list
+
 # # add value last
 # marks.append(100)
 # print(marks)
